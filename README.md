@@ -47,9 +47,6 @@ Check console logs for advice outputs and understand the flow of execution.
 🤝 Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests. Let’s make learning Spring AOP easier for everyone.
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 🌟 Acknowledgments
 Spring Framework for providing robust AOP features.
 Community tutorials and documentation that guided this implementation.
