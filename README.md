@@ -1,6 +1,5 @@
 # Spring AOP Demo Project
 
-![Spring AOP Logo](https://banner2.cleanpng.com/20180328/ace/avb3vlspi.webp)  
 *A comprehensive demo project for understanding and implementing Aspect-Oriented Programming (AOP) with Spring.*
 
 ---
